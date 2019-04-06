@@ -1,0 +1,5 @@
+config BR2_PACKAGE_KILO
+        bool "kilo"
+        help
+	  Kilo is a small text editor in less than 1K lines of code (counted with cloc).
+	  https://github.com/sysprog21/kilo
